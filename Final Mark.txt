@@ -1,0 +1,84 @@
+MARKING SHEET ASSIGNMENT 4 CS1027B
+----------------------------------
+
+
+STUDENT NAME AND NUMBER:Wafiq Syed Rahmathulla (wsyedrah)
+MARKING TA NAME:zhongwen zhang
+
+
+MARKS GAINED:
+------------
+The 13 tests from the test programs (TestEncodingData, TestHuffmanTree,     
+TestHuffmanCoder:                                                                      9.75/9.75 
+
+Failed tests (TestEncodingData):
+Failed tests (TestHuffmanTree):
+Failed tests (TestHuffmanCoder):
+
+Tests for encoding/decoding of files:                                                   5/5.00
+
+Failed tests: 
+
+Program structure and style, identifier names, comments, and 
+indentation for EncodingPair.java:                                                      1.25/1.25
+
+TA comments:
+
+Program structure and style, identifier names, comments, and 
+indentation for HuffmanTree.java:                                                       2.00/2.00
+
+TA comments:
+
+Program structure and style, identifier names, comments, and 
+indentation for HuffmanCoder.java:                                                      2.00/2.00
+
+TA comments:
+
+
+MARKS DEDUCTED:
+--------------
+
+The first 3 constructors of Class HuffmanTree don't call super() (deduct max. 3)        ____
+
+TA comments:
+
+Method encode from HuffmanCoder does not use EncodingList (deduct max. 1)               ____
+
+TA comments: 
+
+Method decode from HuffmanCoder does not use a Huffman tree (deduct max. 1)             ____
+
+TA comments:
+
+Method buildEncodingList from HuffmanCoder is not recursive (deduct max. 2)             ____ 
+
+TA comments:
+
+Poor exception handling                                                                 ____
+
+TA comments:
+
+Not all required methods are implemented                                                ____
+
+TA comments:
+
+Other (specify):                                                                       ____
+
+
+Late penalty: 
+
+TOTAL_______________________________________________________________________/20.00
+
+
+TA COMMENTS:
+
+
+
+
+
+
+
+
+
+
+
